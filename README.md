@@ -15,11 +15,15 @@ Join me on my GitHub account to stay updated on my projects and join my profound
 
 
 ## Connect with me
-<p> Follow me on LinkedIn
-<a href="https://linkedin.com/in/thomas lonjon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas lonjon" height="30" width="40" /></a>
+<p>
+<a href="https://linkedin.com/in/thomas lonjon" target="blank">
+   Follow me on LinkedIn
+</a>
 </p>
-<p> Have a look at my PortFolio
-<a href="https://thomaslonjon.netlify.app/" target="blank"></a>
+<p>
+<a href="https://thomaslonjon.netlify.app/" target="blank">
+   Have a look at my PortFolio
+</a>
 </p>
 
 
