@@ -1,6 +1,6 @@
 
 
-<h1>FullStack Web Developer</h1>
+<h1>💫 FullStack Web Developer 🪐</h1>
 
 
 ## About Me
