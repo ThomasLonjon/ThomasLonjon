@@ -7,11 +7,11 @@
 
 👋 Hello, I'm Thomas, a passionate full-stack French developer based in Paris.
 
-My fascination for maps and urbanism has driven me to explore innovative methods of storytelling through maps. I have honed my skills in creating captivating web-mapping experiences, which blend mapping and urbanism, two of my greatest passions.
+🌍 My fascination for maps and urbanism has driven me to explore innovative methods of storytelling through maps. I have honed my skills in creating captivating web-mapping experiences, which blend mapping and urbanism, two of my greatest passions.
 
-Currently, I am starting an exciting journey to expand my expertise by delving into Three.js. This will allow me to offer immersive 3D experiences that push the boundaries of webmapping even further.
+🏗️ Currently, I am starting an exciting journey to expand my expertise by delving into Three.js. This will allow me to offer immersive 3D experiences that push the boundaries of webmapping even further.
 
-Join me on my GitHub account to stay updated on my projects and join my profound passion for 3D webmapping. Together, let's explore new dimensions and unlock the potential of maps in captivating and meaningful ways.
+⚡️ Join me on my GitHub account to stay updated on my projects and join my profound passion for 3D webmapping. Together, let's explore new dimensions and unlock the potential of maps in captivating and meaningful ways.
 
 
 ## Connect with me
