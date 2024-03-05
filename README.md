@@ -1,7 +1,7 @@
 
 
 <h1>🪐 Creative Web Developer and Web Mapper </h1>
-<h3> Creating 3D urban planning web visualisations</h3>
+<h2> Creating 3D urban planning web visualisations</h2>
 
 
 ## About Me
