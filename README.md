@@ -4,8 +4,6 @@
 <h2> Creating 3D urban planning web visualisations</h2>
 
 
-## About Me
-
 👋 Hello, I'm Thomas, a passionate full-stack French developer.
 
 🌍 My fascination for maps and urbanism have lead me to explore innovative methods of storytelling through web maps.
@@ -19,7 +17,6 @@ That's why I am also working on other 3D webmapping projects, to help people vis
 ⚡️ Join me on GitHub to stay updated on my projects and join my passion for 3D webmapping.
 
 
-## Connect with me
 <p>
 <a href="https://linkedin.com/in/thomas lonjon" target="blank">
    Follow me on LinkedIn
