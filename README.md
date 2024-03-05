@@ -11,7 +11,7 @@ Urban projects are long, complex, and imply a lot people, from different horizon
 I would like to offer accessible 3D representations of projects so everyone understands at their own level what's being planned.
 It may be a first step towards a better appropriations of one's neighborhood, town or city.
 
-⛰️ Beyond architecture and urbanism, I believe every project could benefit from maps, whatever its field.
+⛰️ Beyond architecture and urbanism, I believe every project could benefit from maps, whatever its field. \n
 That's why I am also working on other 3D webmapping projects, to help people visualise things on a map, and how they organise themselves in space.
 
 ⚡️ Join me on GitHub to stay updated on my projects and join my passion for 3D webmapping.
