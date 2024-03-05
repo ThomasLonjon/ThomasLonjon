@@ -1,17 +1,21 @@
 
 
-<h1>🪐 FullStack Web Developer </h1>
+<h1>🪐 Creative Web Developer and Web Mapper </h1>
 
 
 ## About Me
 
-👋 Hello, I'm Thomas, a passionate full-stack French developer based in Paris.
+👋 Hello, I'm Thomas, a passionate full-stack French developer.
 
-🌍 My fascination for maps and urbanism has driven me to explore innovative methods of storytelling through maps. I have honed my skills in creating captivating web-mapping experiences, which blend mapping and urbanism, two of my greatest passions.
+🌍 My fascination for maps and urbanism have lead me to explore innovative methods of storytelling through web maps.
+Urban projects are long, complex, and imply a lot people, from different horizons. Inhabitants, architects, mayors ...
+I would like to offer accessible 3D representations of projects so everyone understands at their own level what's being planned.
+It may be a first step towards a better appropriations of one's neighborhood, town or city.
 
-🏗️ Currently, I am starting an exciting journey to expand my expertise by delving into Three.js. This will allow me to offer immersive 3D experiences that push the boundaries of webmapping even further.
+⛰️ Beyond that architecture and urbanism, I believe every project could benefit from maps, whatever its field.
+That's why I am also working on other 3D webmapping projects, to help people visualise things on a map, and how they organise themselves in space.
 
-⚡️ Join me on my GitHub account to stay updated on my projects and join my profound passion for 3D webmapping. Together, let's explore new dimensions and unlock the potential of maps in captivating and meaningful ways.
+⚡️ Join me on GitHub to stay updated on my projects and join my passion for 3D webmapping.
 
 
 ## Connect with me
@@ -25,27 +29,6 @@
    Have a look at my PortFolio
 </a>
 </p>
-
-
-## Languages and Tools
-<h3> Front End </h3>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
-
-
-<h3> Back End </h3>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
-
-
-<h3> 3D Modeling </h3>
-<p><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-</p>
-
-
-<h3> Design </h3>
-<p><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></p>
-
-
 
 
 
