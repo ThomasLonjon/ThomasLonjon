@@ -17,12 +17,12 @@ That's why I am also working on other 3D webmapping projects, to help people vis
 ⚡️ Join me on GitHub to stay updated on my projects and join my passion for 3D webmapping.
 
 
-<p>
+→ <p>
 <a href="https://linkedin.com/in/thomas lonjon" target="blank">
    Follow me on LinkedIn
 </a>
 </p>
-<p>
+→ <p>
 <a href="https://thomaslonjon.netlify.app/" target="blank">
    Have a look at my PortFolio
 </a>
