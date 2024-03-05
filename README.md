@@ -1,6 +1,7 @@
 
 
 <h1>🪐 Creative Web Developer and Web Mapper </h1>
+<h3> Creating 3D urban planning web visualisations</h3>
 
 
 ## About Me
@@ -12,7 +13,7 @@ Urban projects are long, complex, and imply a lot people, from different horizon
 I would like to offer accessible 3D representations of projects so everyone understands at their own level what's being planned.
 It may be a first step towards a better appropriations of one's neighborhood, town or city.
 
-⛰️ Beyond that architecture and urbanism, I believe every project could benefit from maps, whatever its field.
+⛰️ Beyond architecture and urbanism, I believe every project could benefit from maps, whatever its field.
 That's why I am also working on other 3D webmapping projects, to help people visualise things on a map, and how they organise themselves in space.
 
 ⚡️ Join me on GitHub to stay updated on my projects and join my passion for 3D webmapping.
